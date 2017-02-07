@@ -3,4 +3,4 @@ Laura Sugiyama
 
 This is my first document for MART 340 web development.
 
-I added a line to this file in my text editor!!!!
+I added a line to this file in my text editor, yay!!!
